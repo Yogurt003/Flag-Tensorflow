@@ -1,10 +1,29 @@
 # Something text here
 
-<table>
-  <td>STT</td>
-  <td>Thành viên</td>
-  <td>Vị trí</td>
-  <td>1</td><br>
-  <td>Phan Ngọc Bảo Vinh</td>
-  <td>Coder</td>
+<table border="1">
+  <tr>
+    <th>STT</th>
+    <th>Thành viên</th>
+    <th>Vị trí</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Phan Ngọc Bảo Vinh</td>
+    <td>Coder</td>
+  </tr>
+    <tr>
+    <td>2</td>
+    <td>Phan Ngọc Bảo Vinh</td>
+    <td>Coder</td>
+  </tr>
+    <tr>
+    <td>3</td>
+    <td>Phan Ngọc Bảo Vinh</td>
+    <td>Coder</td>
+  </tr>
+    <tr>
+    <td>4</td>
+    <td>Phan Ngọc Bảo Vinh</td>
+    <td>Coder</td>
+  </tr>
 </table>
